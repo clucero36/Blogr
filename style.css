@@ -1,3 +1,8 @@
+/* mobile first web design */
+/* this web page was styled for 375px mobile devices */
+/* implemented media queries for 1440px desktop devices */
+
+
 body {
   margin: 0;
   font-size: 16px;
